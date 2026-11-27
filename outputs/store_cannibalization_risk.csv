@@ -1,0 +1,11 @@
+Store_1,Store_2,Common_Devices,Overlap_Percentage,Cannibalization_Risk
+S001,S002,0,0.0,Low
+S001,S003,0,0.0,Low
+S001,S004,0,0.0,Low
+S001,S005,0,0.0,Low
+S002,S003,0,0.0,Low
+S002,S004,0,0.0,Low
+S002,S005,0,0.0,Low
+S003,S004,0,0.0,Low
+S003,S005,0,0.0,Low
+S004,S005,0,0.0,Low
